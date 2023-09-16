@@ -8,4 +8,8 @@
 
 ### `npm start`
 
-# For the login screen, the valid credentials are edbasti / password (username / password)
+For the login screen, the valid credentials are
+
+# edbasti / password
+
+(username / password)
