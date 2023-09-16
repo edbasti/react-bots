@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "edbasti",
+      "password": "password"
+    }
+  ],
+  "bots": [
+    {
+      "id": 1,
+      "name": "test",
+      "purpose": "test",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Snickers"
+    },
+    {
+      "id": 2,
+      "name": "test",
+      "purpose": "test",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=Molly"
+    },
+    {
+      "name": "Ginger",
+      "purpose": "To rule the world",
+      "avatar": "https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=https://api.dicebear.com/7.x/adventurer/svg?seed=",
+      "id": 6
+    }
+  ]
+}
